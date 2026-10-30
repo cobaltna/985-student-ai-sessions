@@ -1,0 +1,32 @@
+{
+ "session_id": "sess_4a2ea620-5381-4fb0-af74-c7f5050f315b",
+ "zcode_title": "解答题目并给出详细解析",
+ "task_type": "interactive",
+ "dominant_model": "deepseek-v4.1-flash",
+ "models_usage": {
+  "deepseek-v4.1-flash": [
+   0,
+   0
+  ]
+ },
+ "models_in_msgs": {
+  "deepseek-v4-pro": 2,
+  "[user选择]deepseek-v4-pro": 1,
+  "deepseek-v4-flash": 6,
+  "[user选择]deepseek-v4-flash": 1,
+  "[user选择]deepseek-v4.1-flash": 1,
+  "deepseek-v4.1-flash": 1
+ },
+ "tools": {
+  "Bash": 5,
+  "Read": 1
+ },
+ "skills": {},
+ "t_start": "2026-08-13 01:06",
+ "t_end": "2026-10-08 00:26",
+ "msgs": 12,
+ "user_msgs": 3,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

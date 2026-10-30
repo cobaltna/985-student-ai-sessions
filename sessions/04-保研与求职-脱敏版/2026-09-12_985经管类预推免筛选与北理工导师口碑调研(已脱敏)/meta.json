@@ -1,0 +1,28 @@
+{
+ "session_id": "sess_f1dd849c-6145-4c9a-b4c6-6a8f7d0cf015",
+ "zcode_title": "筛选985高校经管类预推免信息",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 128,
+  "[user选择]deepseek-flash": 5
+ },
+ "tools": {
+  "Skill": 1,
+  "mcp__node_repl__js": 111,
+  "TodoWrite": 8,
+  "WebFetch": 4,
+  "Read": 2
+ },
+ "skills": {
+  "browser-use:control-browser": 1
+ },
+ "t_start": "2026-09-12 16:01",
+ "t_end": "2026-09-13 13:15",
+ "msgs": 141,
+ "user_msgs": 5,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

@@ -1,0 +1,60 @@
+{
+ "session_id": "sess_81435f3c-4bb3-45a1-8c0d-34047cc90656",
+ "zcode_title": "中国石油大学刘明明金融专硕申请自述",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 94,
+  "[user选择]deepseek-flash": 6
+ },
+ "tools": {
+  "Bash": 44,
+  "WebFetch": 6,
+  "Read": 25,
+  "Write": 14,
+  "AskUserQuestion": 1,
+  "WebSearch": 1,
+  "TodoWrite": 2,
+  "Edit": 15
+ },
+ "skills": {},
+ "t_start": "2026-09-12 23:46",
+ "t_end": "2026-09-13 14:32",
+ "msgs": 107,
+ "user_msgs": 6,
+ "write_paths": [
+  "C:\\Users\\UserX\\Downloads\\实习\\_extract.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_html.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\UserX_申请人自述.md",
+  "C:\\Users\\UserX\\Downloads\\实习\\UserX_申请人自述.md",
+  "C:\\Users\\UserX\\Downloads\\实习\\_tpl.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_topdf.ps1",
+  "C:\\Users\\UserX\\Downloads\\实习\\_raw.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_render.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_struct.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_imgs.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_hdr.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_pv.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\patch2.py"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\build.py"
+ ],
+ "subagent_sessions": []
+}

@@ -1,0 +1,204 @@
+{
+ "session_id": "session_34ba9023eb3657d3ae1bda0615dc4a4e",
+ "zcode_title": "轮式机器人实验步骤整理与报告生成",
+ "task_type": "interactive",
+ "dominant_model": "GLM-5.3-Flash",
+ "models_usage": {
+  "GLM-5.3-Flash": [
+   33624644,
+   148021
+  ],
+  "deepseek-v4.1-flash": [
+   1394289,
+   66080
+  ],
+  "deepseek-flash": [
+   29540996,
+   145224
+  ]
+ },
+ "models_in_msgs": {
+  "[user选择]GLM-5.3-Flash": 1,
+  "GLM-5.3-Flash": 165,
+  "[user选择]deepseek-v4.1-flash": 6,
+  "deepseek-v4.1-flash": 18,
+  "[user选择]deepseek-flash": 9,
+  "deepseek-flash": 101
+ },
+ "tools": {
+  "Bash": 190,
+  "Read": 29,
+  "mcp__plugin_documents_documents__read_document": 8,
+  "TodoWrite": 5,
+  "Agent": 7,
+  "Skill": 1,
+  "mcp__node_repl__js": 3,
+  "TaskOutput": 3,
+  "Write": 28,
+  "Edit": 11
+ },
+ "skills": {
+  "browser-use:control-browser": 1
+ },
+ "t_start": "2026-10-30 01:05",
+ "t_end": "2026-10-30 16:06",
+ "msgs": 355,
+ "user_msgs": 16,
+ "write_paths": [
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\STC12C5A60S2.H",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\10_超声波避障\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\11_云台超声波避障\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\01_七彩探照灯\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\02_小车前进\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\03_小车综合运动\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\04_舵机控制七彩灯\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\05_按键控制启动\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\06_红外避障\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\07_红外跟随\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\08_寻光行走\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\09_巡线\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\00_预备实验_HelloRoBot\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\make_uvprojx.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\guide_lib.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\guide_a.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\guide_b.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\guide_c.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\build_guide.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\build_report.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\build_report.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\build_report.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\轮式机器人实验代码包\\使用说明.txt",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\project-b264b7535b8ad587\\memory\\wheeled-robot-lab-setup.md",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\project-b264b7535b8ad587\\memory\\keil-c51-machine-env.md",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\project-b264b7535b8ad587\\memory\\MEMORY.md",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\视频帧分析备忘.md",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\06b_红外传感器诊断\\main.c"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\guide_lib.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\build_report.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\guide_c.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\guide_c.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\11_云台超声波避障\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\11_云台超声波避障\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\11_云台超声波避障\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\11_云台超声波避障\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\code\\11_云台超声波避障\\main.c",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\guide_c.py",
+  "C:\\Users\\UserX\\Downloads\\轮式\\work\\guide_c.py"
+ ],
+ "subagent_sessions": [
+  {
+   "id": "sess_subagent_agent_14f9eb75-06f9-4dcb-ab9f-847cedebc040",
+   "md_kb": 104,
+   "jl_msgs": 23,
+   "meta": {
+    "models_in_msgs": {
+     "GLM-5.3-Flash": 22,
+     "[user选择]GLM-5.3-Flash": 1
+    },
+    "tools": {
+     "Read": 49,
+     "Bash": 10,
+     "Write": 1,
+     "TodoWrite": 1,
+     "Edit": 1
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_1898e4a7-4023-4aab-8b59-2afb9feb17ad",
+   "md_kb": 4,
+   "jl_msgs": 3,
+   "meta": {
+    "models_in_msgs": {
+     "GLM-5.3-Flash": 2,
+     "[user选择]GLM-5.3-Flash": 1
+    },
+    "tools": {},
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_1f6d8493-0a93-4a9b-86e4-6ffb97802140",
+   "md_kb": 43,
+   "jl_msgs": 29,
+   "meta": {
+    "models_in_msgs": {
+     "GLM-5.3-Flash": 28,
+     "[user选择]GLM-5.3-Flash": 1
+    },
+    "tools": {
+     "Bash": 1,
+     "Read": 99
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_28eedb63-93fc-4820-88f9-9fe1b2115c55",
+   "md_kb": 89,
+   "jl_msgs": 33,
+   "meta": {
+    "models_in_msgs": {
+     "GLM-5.3-Flash": 32,
+     "[user选择]GLM-5.3-Flash": 1
+    },
+    "tools": {
+     "Bash": 6,
+     "Read": 42,
+     "Write": 42
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_3d41f3fa-ed29-40dc-9efc-5a7b30cb1659",
+   "md_kb": 1,
+   "jl_msgs": 3,
+   "meta": {
+    "models_in_msgs": {
+     "GLM-5.3-Flash": 2,
+     "[user选择]GLM-5.3-Flash": 1
+    },
+    "tools": {},
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_905ce2ec-0db9-4887-8dcc-18fd4d64c844",
+   "md_kb": 116,
+   "jl_msgs": 27,
+   "meta": {
+    "models_in_msgs": {
+     "GLM-5.3-Flash": 26,
+     "[user选择]GLM-5.3-Flash": 1
+    },
+    "tools": {
+     "Read": 60,
+     "Bash": 10,
+     "Write": 2,
+     "Edit": 1
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_ae65053b-335f-43b5-8dbf-d38196801ebf",
+   "md_kb": 5,
+   "jl_msgs": 9,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-flash": 8,
+     "[user选择]deepseek-flash": 1
+    },
+    "tools": {
+     "Read": 2,
+     "Bash": 5
+    },
+    "skills": {}
+   }
+  }
+ ]
+}

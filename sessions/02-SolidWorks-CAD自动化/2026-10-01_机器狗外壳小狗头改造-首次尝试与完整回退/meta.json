@@ -1,0 +1,69 @@
+{
+ "session_id": "sess_d669bb41-74a5-4544-ab90-0d999b082dbe",
+ "zcode_title": "SolidWorks MCP 机器狗外壳小狗头改造",
+ "task_type": "interactive",
+ "dominant_model": "GLM-5.3-Flash",
+ "models_usage": {
+  "GLM-5.3-Flash": [
+   33674150,
+   204445
+  ]
+ },
+ "models_in_msgs": {
+  "[user选择]GLM-5.3-Flash": 3,
+  "GLM-5.3-Flash": 159
+ },
+ "tools": {
+  "Bash": 91,
+  "Read": 35,
+  "TodoWrite": 8,
+  "Write": 34,
+  "AskUserQuestion": 1,
+  "Edit": 1
+ },
+ "skills": {},
+ "t_start": "2026-10-01 17:56",
+ "t_end": "2026-10-01 21:00",
+ "msgs": 175,
+ "user_msgs": 3,
+ "write_paths": [
+  "C:\\Users\\UserX\\.zcode\\tmp\\sw_mcp.py",
+  "C:\\Users\\UserX\\.zcode\\tmp\\sw_snapshot.py",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_1.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_2.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_3.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f1.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f2.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f4.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f4b.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f4c.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_edges2.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f6a.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f6b.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f6c.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_edges3.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f6d.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f6e.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f6g.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_f6h.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_save.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_cleanup.json",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\default-291edf811f114b36\\memory\\solidworks-mcp-bridge.md",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_del.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_dome1.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_dome2.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_ear1.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_ear2.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_mirror2.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_fillet_final.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_ft1.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_ft2.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_final2.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_rollback.json",
+  "C:\\Users\\UserX\\.zcode\\tmp\\calls_restore.json"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\default-291edf811f114b36\\memory\\solidworks-mcp-bridge.md"
+ ],
+ "subagent_sessions": []
+}

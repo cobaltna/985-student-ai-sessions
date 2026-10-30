@@ -1,0 +1,22 @@
+{
+ "session_id": "sess_9d511624-23e3-470a-a63c-726e6526d3d6",
+ "zcode_title": "zcode配置deepseek-flash思考强度",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 20,
+  "[user选择]deepseek-flash": 1
+ },
+ "tools": {
+  "Bash": 31
+ },
+ "skills": {},
+ "t_start": "2026-09-11 20:26",
+ "t_end": "2026-09-11 20:28",
+ "msgs": 22,
+ "user_msgs": 1,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

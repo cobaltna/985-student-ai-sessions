@@ -1,0 +1,41 @@
+{
+ "session_id": "sess_7ea598f6-01a5-495e-bc4d-cc41c715bbe2",
+ "zcode_title": "迁移PPT生图流程到gpt-image-2.5-sunburst平台",
+ "task_type": "interactive",
+ "dominant_model": "GLM-5.3-Flash",
+ "models_usage": {
+  "GLM-5.3-Flash": [
+   1297355,
+   23437
+  ]
+ },
+ "models_in_msgs": {
+  "[user选择]GLM-5.3-Flash": 1,
+  "GLM-5.3-Flash": 27
+ },
+ "tools": {
+  "Read": 6,
+  "Bash": 16,
+  "WebFetch": 1,
+  "TodoWrite": 3,
+  "Write": 3,
+  "Edit": 4
+ },
+ "skills": {},
+ "t_start": "2026-10-02 23:20",
+ "t_end": "2026-10-02 23:32",
+ "msgs": 29,
+ "user_msgs": 1,
+ "write_paths": [
+  "C:\\Users\\UserX\\Desktop\\testtt\\ppt-master-image-api-patch\\_api_probe\\probe_images.ps1",
+  "C:\\Users\\UserX\\.zcode\\skills\\ppt-master\\.env",
+  "C:\\Users\\UserX\\Desktop\\testtt\\ppt-master-image-api-patch\\_api_probe\\run_pipeline_test.ps1"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\Desktop\\testtt\\ppt-master-image-api-patch\\_api_probe\\probe_images.ps1",
+  "C:\\Users\\UserX\\.zcode\\skills\\ppt-master\\skills\\ppt-master\\scripts\\image_backends\\backend_openai.py",
+  "C:\\Users\\UserX\\.zcode\\skills\\ppt-master\\skills\\ppt-master\\scripts\\image_backends\\backend_openai.py",
+  "C:\\Users\\UserX\\.zcode\\memory\\ppt-master-project.md"
+ ],
+ "subagent_sessions": []
+}

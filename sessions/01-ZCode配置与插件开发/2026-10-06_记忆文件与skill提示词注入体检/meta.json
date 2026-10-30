@@ -1,0 +1,28 @@
+{
+ "session_id": "sess_9b5c58a7-dd84-4027-9c7c-d73fb0031826",
+ "zcode_title": "检查记忆文件过多导致的提示词注入问题",
+ "task_type": "interactive",
+ "dominant_model": "GLM-5.3-Flash",
+ "models_usage": {
+  "GLM-5.3-Flash": [
+   294026,
+   15299
+  ]
+ },
+ "models_in_msgs": {
+  "[user选择]GLM-5.3-Flash": 2,
+  "GLM-5.3-Flash": 8
+ },
+ "tools": {
+  "Bash": 9,
+  "Read": 1
+ },
+ "skills": {},
+ "t_start": "2026-10-06 13:35",
+ "t_end": "2026-10-06 13:45",
+ "msgs": 10,
+ "user_msgs": 2,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

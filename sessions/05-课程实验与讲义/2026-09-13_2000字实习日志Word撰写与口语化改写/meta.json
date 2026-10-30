@@ -1,0 +1,59 @@
+{
+ "session_id": "sess_a63406f3-5e96-45dd-8c2d-7fed80b78552",
+ "zcode_title": "撰写2000字实习日志Word文档",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 38,
+  "[user选择]deepseek-flash": 3
+ },
+ "tools": {
+  "Bash": 15,
+  "Read": 19,
+  "Write": 2,
+  "Edit": 7,
+  "WebFetch": 1,
+  "Agent": 1
+ },
+ "skills": {},
+ "t_start": "2026-09-13 17:14",
+ "t_end": "2026-09-13 18:08",
+ "msgs": 44,
+ "user_msgs": 3,
+ "write_paths": [
+  "C:\\Users\\UserX\\Downloads\\日志\\_make_log.py",
+  "C:\\Users\\UserX\\Downloads\\日志\\_make_log.py"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\Downloads\\日志\\_make_log.py",
+  "C:\\Users\\UserX\\Downloads\\日志\\_make_log.py",
+  "C:\\Users\\UserX\\Downloads\\日志\\_make_log.py",
+  "C:\\Users\\UserX\\Downloads\\日志\\_make_log.py",
+  "C:\\Users\\UserX\\Downloads\\日志\\_make_log.py",
+  "C:\\Users\\UserX\\Downloads\\日志\\_make_log.py",
+  "C:\\Users\\UserX\\Downloads\\日志\\_make_log.py"
+ ],
+ "subagent_sessions": [
+  {
+   "id": "sess_subagent_agent_5bc6d5ed-4a87-45a6-a10d-23f055ce3fec",
+   "md_kb": 286,
+   "jl_msgs": 88,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-flash": 87,
+     "[user选择]deepseek-flash": 1
+    },
+    "tools": {
+     "TodoWrite": 3,
+     "WebFetch": 68,
+     "Bash": 31,
+     "Write": 1,
+     "Read": 78,
+     "Edit": 4
+    },
+    "skills": {}
+   }
+  }
+ ]
+}

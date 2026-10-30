@@ -1,0 +1,38 @@
+{
+ "session_id": "sess_01f01de4-cc08-4522-90c9-e43124c3d1f9",
+ "zcode_title": "简历文件夹模拟面试与高频考题",
+ "task_type": "interactive",
+ "dominant_model": "deepseek-v4.1-flash",
+ "models_usage": {
+  "deepseek-v4.1-flash": [
+   1526055,
+   74841
+  ]
+ },
+ "models_in_msgs": {
+  "[user选择]deepseek-v4.1-flash": 1,
+  "deepseek-v4.1-flash": 30
+ },
+ "tools": {
+  "Bash": 18,
+  "Read": 27,
+  "TodoWrite": 3,
+  "Write": 7
+ },
+ "skills": {},
+ "t_start": "2026-10-16 13:18",
+ "t_end": "2026-10-16 13:31",
+ "msgs": 32,
+ "user_msgs": 1,
+ "write_paths": [
+  "C:\\Users\\UserX\\Downloads\\面试八股\\模拟面试\\00_使用说明与通用策略.md",
+  "C:\\Users\\UserX\\Downloads\\面试八股\\模拟面试\\01_机械结构设计岗.md",
+  "C:\\Users\\UserX\\Downloads\\面试八股\\模拟面试\\02_仿真分析岗.md",
+  "C:\\Users\\UserX\\Downloads\\面试八股\\模拟面试\\03_机电一体与运动控制岗.md",
+  "C:\\Users\\UserX\\Downloads\\面试八股\\模拟面试\\04_嵌入式与算法岗.md",
+  "C:\\Users\\UserX\\Downloads\\面试八股\\模拟面试\\05_HR面与综合面.md",
+  "C:\\Users\\UserX\\Downloads\\面试八股\\模拟面试\\06_八股速记卡.md"
+ ],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

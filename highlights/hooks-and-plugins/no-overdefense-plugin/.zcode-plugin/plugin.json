@@ -1,0 +1,10 @@
+{
+  "name": "no-overdefense",
+  "version": "0.1.1",
+  "description": "个人项目日常任务的防过度防御提醒：一个 skill 加一个哈希提醒钩子，只注入提醒，不阻断。",
+  "author": {
+    "name": "UserX"
+  },
+  "skills": "./skills",
+  "hooks": "./hooks/hooks.json"
+}

@@ -1,0 +1,28 @@
+{
+ "session_id": "sess_be13fcba-8936-4652-b51a-4c11eb3891c2",
+ "zcode_title": "查询鲁越公考口碑与投诉记录",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-v4-flash": 19,
+  "[user选择]deepseek-v4-flash": 1
+ },
+ "tools": {
+  "Skill": 2,
+  "TodoWrite": 2,
+  "mcp__node_repl__js": 15,
+  "WebFetch": 1
+ },
+ "skills": {
+  "memory-web-scraping": 1,
+  "browser-use:control-browser": 1
+ },
+ "t_start": "2026-09-11 01:45",
+ "t_end": "2026-09-11 01:48",
+ "msgs": 20,
+ "user_msgs": 1,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

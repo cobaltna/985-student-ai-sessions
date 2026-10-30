@@ -1,0 +1,42 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "process",
+            "command": "C:\\Program Files\\nodejs\\node.exe",
+            "args": ["C:\\Users\\UserX\\.zcode\\hooks\\hash-reminder.cjs"],
+            "timeoutMs": 10000,
+            "statusMessage": "检查是否在算没人用的哈希"
+          }
+        ]
+      },
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "process",
+            "command": "C:\\Program Files\\nodejs\\node.exe",
+            "args": ["C:\\Users\\UserX\\.zcode\\hooks\\hash-reminder.cjs"],
+            "timeoutMs": 10000,
+            "statusMessage": "检查是否在写没人用的哈希"
+          }
+        ]
+      },
+      {
+        "matcher": "Edit",
+        "hooks": [
+          {
+            "type": "process",
+            "command": "C:\\Program Files\\nodejs\\node.exe",
+            "args": ["C:\\Users\\UserX\\.zcode\\hooks\\hash-reminder.cjs"],
+            "timeoutMs": 10000,
+            "statusMessage": "检查是否在写没人用的哈希"
+          }
+        ]
+      }
+    ]
+  }
+}

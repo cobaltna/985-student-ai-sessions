@@ -1,0 +1,29 @@
+{
+ "session_id": "session_84bae3e5c11d6220a9added96a16036c",
+ "zcode_title": "Kiss Translator Edge浏览器插件",
+ "task_type": "interactive",
+ "dominant_model": "deepseek-v4.1-flash",
+ "models_usage": {
+  "deepseek-v4.1-flash": [
+   18025392,
+   228603
+  ]
+ },
+ "models_in_msgs": {
+  "[user选择]deepseek-v4.1-flash": 6,
+  "deepseek-v4.1-flash": 182
+ },
+ "tools": {
+  "Bash": 215,
+  "Read": 1,
+  "TodoWrite": 3
+ },
+ "skills": {},
+ "t_start": "2026-10-29 19:19",
+ "t_end": "2026-10-29 23:25",
+ "msgs": 210,
+ "user_msgs": 6,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

@@ -1,0 +1,11 @@
+#!/bin/sh
+# `openfilm` for agents that run under this bridge (Git Bash / PowerShell via msys).
+# The app's own openfilm.cmd hardcodes the non-ASCII profile path, which cmd.exe mangles;
+# this one keeps every path ASCII (C:/Users/UserX is a junction to the real profile).
+OF_EXE='C:/Users/UserX/AppData/Local/Programs/OpenFilm/OpenFilm.exe'
+OF_CLI='C:/Users/UserX/AppData/Local/Programs/OpenFilm/resources/app.asar/node_modules/openfilm/bin/openfilm.mjs'
+export ELECTRON_RUN_AS_NODE=1
+export OPENFILM_NO_UPDATE_CHECK=1
+export PLAYWRIGHT_BROWSERS_PATH='C:\Users\UserX\AppData\Local\Programs\OpenFilm\resources\runtime\ms-playwright'
+export PATH='/c/Users/UserX/AppData/Local/Programs/OpenFilm/resources/runtime/ffmpeg':"$PATH"
+exec "$OF_EXE" "$OF_CLI" "$@"

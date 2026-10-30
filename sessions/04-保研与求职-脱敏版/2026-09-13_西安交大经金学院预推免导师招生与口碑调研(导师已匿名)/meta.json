@@ -1,0 +1,29 @@
+{
+ "session_id": "sess_6bd12737-d13d-4e92-be38-02d4ce13770f",
+ "zcode_title": "西安交大经金学院预推免导师招生与口碑查询",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 76,
+  "[user选择]deepseek-flash": 2
+ },
+ "tools": {
+  "Skill": 1,
+  "mcp__node_repl__js": 66,
+  "TodoWrite": 3,
+  "WebFetch": 1,
+  "Bash": 2,
+  "Read": 1
+ },
+ "skills": {
+  "browser-use:control-browser": 1
+ },
+ "t_start": "2026-09-13 13:23",
+ "t_end": "2026-09-13 13:37",
+ "msgs": 84,
+ "user_msgs": 2,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

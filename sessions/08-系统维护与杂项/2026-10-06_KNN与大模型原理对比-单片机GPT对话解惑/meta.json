@@ -1,0 +1,25 @@
+{
+ "session_id": "sess_76d07147-2707-4f9f-a78c-6ad7738a105d",
+ "zcode_title": "KNN模型与AI大模型异同对比",
+ "task_type": "interactive",
+ "dominant_model": "GLM-5.3-Flash",
+ "models_usage": {
+  "GLM-5.3-Flash": [
+   208055,
+   14019
+  ]
+ },
+ "models_in_msgs": {
+  "GLM-5.3-Flash": 6,
+  "[user选择]GLM-5.3-Flash": 5
+ },
+ "tools": {},
+ "skills": {},
+ "t_start": "2026-10-06 14:54",
+ "t_end": "2026-10-06 15:21",
+ "msgs": 11,
+ "user_msgs": 5,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

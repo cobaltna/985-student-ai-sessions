@@ -1,0 +1,32 @@
+{
+ "session_id": "sess_64876405-daf2-448b-b5bf-84cb8ce4de14",
+ "zcode_title": "筛选985高校经管类未截止预推免信息",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 73,
+  "[user选择]deepseek-flash": 4
+ },
+ "tools": {
+  "Read": 6,
+  "Skill": 1,
+  "TodoWrite": 4,
+  "mcp__node_repl__js": 60,
+  "Write": 2,
+  "Bash": 1
+ },
+ "skills": {
+  "browser-use:control-browser": 1
+ },
+ "t_start": "2026-09-14 16:56",
+ "t_end": "2026-09-14 17:15",
+ "msgs": 82,
+ "user_msgs": 4,
+ "write_paths": [
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\extract_pdf.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\985经管类预推免清单-20260914.md"
+ ],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

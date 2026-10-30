@@ -1,0 +1,88 @@
+{
+ "session_id": "sess_8e1f6e27-0c47-4ae7-9218-db3862df7cfe",
+ "zcode_title": "SolidWorks MCP 机器狗外壳上半部狗头建模",
+ "task_type": "interactive",
+ "dominant_model": "gpt-6-astra",
+ "models_usage": {
+  "gpt-6-astra": [
+   15399909,
+   31506
+  ]
+ },
+ "models_in_msgs": {
+  "gpt-6-astra": 142,
+  "[user选择]gpt-6-astra": 3
+ },
+ "tools": {
+  "mcp__solidworks__ensure_ready": 3,
+  "mcp__solidworks__open_document": 5,
+  "mcp__solidworks__analyze_model": 18,
+  "Skill": 1,
+  "Read": 15,
+  "mcp__solidworks__get_recipe": 2,
+  "mcp__node_repl__js": 1,
+  "Bash": 36,
+  "TodoWrite": 4,
+  "mcp__solidworks__save_document": 7,
+  "mcp__solidworks__submit_feature_graph": 5,
+  "mcp__solidworks__close_document": 3,
+  "mcp__solidworks__edit_feature": 10,
+  "Write": 5,
+  "Edit": 16,
+  "mcp__solidworks__add_edge_feature": 3,
+  "Agent": 1,
+  "WebFetch": 1,
+  "mcp__solidworks__activate_document": 1,
+  "mcp__solidworks__export_document": 3
+ },
+ "skills": {
+  "computer-use:computer-use": 1
+ },
+ "t_start": "2026-10-06 14:33",
+ "t_end": "2026-10-06 15:50",
+ "msgs": 157,
+ "user_msgs": 3,
+ "write_paths": [
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\inspect_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\puppy_view.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\verify_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\make_ears_v2.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\make_ears_v3.py"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\inspect_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\inspect_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\inspect_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\inspect_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\puppy_view.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\verify_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\verify_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\verify_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\puppy_view.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\verify_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\verify_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\verify_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\make_ears_v3.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\verify_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\verify_puppy.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\verify_puppy.py"
+ ],
+ "subagent_sessions": [
+  {
+   "id": "sess_subagent_agent_a0011372-bc0b-4aeb-b436-39b101493966",
+   "md_kb": 6,
+   "jl_msgs": 7,
+   "meta": {
+    "models_in_msgs": {
+     "gpt-6-astra": 6,
+     "[user选择]gpt-6-astra": 1
+    },
+    "tools": {
+     "Bash": 6,
+     "Read": 2
+    },
+    "skills": {}
+   }
+  }
+ ]
+}

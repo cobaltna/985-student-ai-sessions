@@ -1,0 +1,24 @@
+{
+ "session_id": "sess_97b758ac-938c-4c35-bd7c-602a9df32357",
+ "zcode_title": "你好",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "[user选择]deepseek-v4-flash": 4,
+  "deepseek-v4-flash": 5,
+  "deepseek-v4-pro": 3,
+  "[user选择]deepseek-v4-pro": 2,
+  "[user选择]DeepSeek-V4-Flash[free]": 1,
+  "DeepSeek-V4-Flash[free]": 1
+ },
+ "tools": {},
+ "skills": {},
+ "t_start": "2026-08-13 01:02",
+ "t_end": "2026-09-30 12:00",
+ "msgs": 16,
+ "user_msgs": 7,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

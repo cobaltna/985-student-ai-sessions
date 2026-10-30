@@ -1,0 +1,44 @@
+{
+ "session_id": "sess_604e3bc0-3d4e-4653-9c6b-40a6250ac514",
+ "zcode_title": "使用Blockbench MCP根据截图建模基岩版方块",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-v4-flash-vision-exp": 178,
+  "[user选择]deepseek-v4-flash-vision-exp": 2
+ },
+ "tools": {
+  "Bash": 40,
+  "Read": 30,
+  "mcp__blockbench__get_project_info": 1,
+  "TodoWrite": 5,
+  "Write": 3,
+  "mcp__blockbench__create_project": 1,
+  "mcp__blockbench__create_texture": 26,
+  "mcp__blockbench__list_textures": 2,
+  "mcp__blockbench__place_cube": 18,
+  "mcp__blockbench__export_model": 6,
+  "mcp__blockbench__remove_element": 6,
+  "mcp__blockbench__capture_screenshot": 20,
+  "mcp__blockbench__set_camera_angle": 10,
+  "mcp__blockbench__risky_eval": 28,
+  "mcp__blockbench__trigger_action": 1,
+  "mcp__blockbench__get_texture": 1,
+  "mcp__blockbench__modify_cube": 37,
+  "mcp__blockbench__apply_texture": 5,
+  "mcp__blockbench__capture_app_screenshot": 3
+ },
+ "skills": {},
+ "t_start": "2026-09-09 23:48",
+ "t_end": "2026-09-10 00:28",
+ "msgs": 196,
+ "user_msgs": 2,
+ "write_paths": [
+  "C:\\Users\\UserX\\Downloads\\钻石灯笼ai测试\\sample.js",
+  "C:\\Users\\UserX\\Downloads\\钻石灯笼ai测试\\make_textures.js",
+  "C:\\Users\\UserX\\Downloads\\钻石灯笼ai测试\\make_textures16.js"
+ ],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

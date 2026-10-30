@@ -1,0 +1,24 @@
+{
+ "session_id": "sess_e8bd6dee-d8fd-434f-9a54-288285a6e836",
+ "zcode_title": "LM Studio中优化Qwen3.6 27B IQ4_XS运行参数",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "[user选择]gpt-6-astra": 1,
+  "gpt-6-astra": 1,
+  "deepseek-flash": 3,
+  "[user选择]deepseek-flash": 1
+ },
+ "tools": {
+  "Read": 1
+ },
+ "skills": {},
+ "t_start": "2026-09-15 00:47",
+ "t_end": "2026-09-15 00:58",
+ "msgs": 6,
+ "user_msgs": 2,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

@@ -1,0 +1,50 @@
+{
+ "session_id": "sess_471f72d1-2e42-44d8-a9f5-3296f9d6964b",
+ "zcode_title": "配置幸运方块赛道模组到Fabric 1.20.1",
+ "task_type": "interactive",
+ "dominant_model": "GLM-5.3-Flash",
+ "models_usage": {
+  "GLM-5.3-Flash": [
+   9432356,
+   67447
+  ]
+ },
+ "models_in_msgs": {
+  "[user选择]GLM-5.3-Flash": 4,
+  "GLM-5.3-Flash": 77
+ },
+ "tools": {
+  "Bash": 29,
+  "Read": 20,
+  "Write": 9,
+  "TodoWrite": 6,
+  "Edit": 6,
+  "WebSearch": 5,
+  "WebFetch": 4
+ },
+ "skills": {},
+ "t_start": "2026-10-05 19:20",
+ "t_end": "2026-10-05 21:23",
+ "msgs": 86,
+ "user_msgs": 4,
+ "write_paths": [
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\mc_extract.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\mc_scan.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\mc_scan2.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\mc_install.py",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\default-291edf811f114b36\\memory\\mc-pcl-luckyblock-setup.md",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\pack_check.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\append_notes.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\lwi_install.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\finalize_notes.py"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\mc_scan2.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\mc_scan2.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\mc_install.py",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\default-291edf811f114b36\\memory\\MEMORY.md",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\pack_check.py",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\default-291edf811f114b36\\memory\\mc-pcl-luckyblock-setup.md"
+ ],
+ "subagent_sessions": []
+}

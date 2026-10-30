@@ -1,0 +1,84 @@
+{
+ "session_id": "sess_5be45cff-876f-4876-814a-b6ab794a093c",
+ "zcode_title": "SolidWorks锥齿轮传动建模与运动分析",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "gpt-6-astra": 78,
+  "[user选择]gpt-6-astra": 2
+ },
+ "tools": {
+  "mcp__solidworks__ensure_ready": 1,
+  "Bash": 22,
+  "mcp__solidworks__get_recipe": 1,
+  "EnterPlanMode": 2,
+  "AskUserQuestion": 2,
+  "Agent": 2,
+  "ExitPlanMode": 2,
+  "mcp__solidworks__open_document": 5,
+  "mcp__solidworks__analyze_model": 6,
+  "mcp__solidworks__save_document": 6,
+  "mcp__solidworks__modify_dimension": 2,
+  "mcp__solidworks__submit_feature_graph": 2,
+  "mcp__solidworks__open_new_assembly": 1,
+  "mcp__solidworks__insert_component": 4,
+  "mcp__solidworks__analyze_assembly": 6,
+  "mcp__solidworks__add_mate": 1,
+  "mcp__solidworks__verify_state": 2,
+  "TodoWrite": 1,
+  "Write": 10,
+  "Read": 4
+ },
+ "skills": {},
+ "t_start": "2026-09-15 20:49",
+ "t_end": "2026-09-15 21:33",
+ "msgs": 86,
+ "user_msgs": 2,
+ "write_paths": [
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\inspect_sw_equations.ps1",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\sw_eq_dump.ps1",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\sw_eq_edit.ps1",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\sw_eq_ps51.ps1",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\sw_enum_docs.ps1",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\sw_capture.ps1",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\sw_open_eq.ps1",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\sw_click_eq.ps1",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\sw_tools_menu.ps1",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\sw_eq_keyboard.ps1"
+ ],
+ "edit_paths": [],
+ "subagent_sessions": [
+  {
+   "id": "sess_subagent_agent_1c2273eb-c856-4ad0-809e-060578ff9252",
+   "md_kb": 27,
+   "jl_msgs": 14,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-flash": 13,
+     "[user选择]deepseek-flash": 1
+    },
+    "tools": {
+     "Bash": 17,
+     "Read": 2
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_7a82aaba-e776-4e78-bc40-53f63b0cb49e",
+   "md_kb": 19,
+   "jl_msgs": 10,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-flash": 9,
+     "[user选择]deepseek-flash": 1
+    },
+    "tools": {
+     "Bash": 14
+    },
+    "skills": {}
+   }
+  }
+ ]
+}

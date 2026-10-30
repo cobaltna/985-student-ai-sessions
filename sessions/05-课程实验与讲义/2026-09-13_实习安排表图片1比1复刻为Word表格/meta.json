@@ -1,0 +1,33 @@
+{
+ "session_id": "sess_ba3354e4-803a-4af0-afa0-ca0d23cbe1e2",
+ "zcode_title": "根据图片制作实习安排Word表格",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 35,
+  "[user选择]deepseek-flash": 1
+ },
+ "tools": {
+  "Read": 14,
+  "Bash": 19,
+  "Write": 1,
+  "Edit": 5
+ },
+ "skills": {},
+ "t_start": "2026-09-13 16:21",
+ "t_end": "2026-09-13 16:25",
+ "msgs": 39,
+ "user_msgs": 1,
+ "write_paths": [
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\build_plan_docx.py"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\build_plan_docx.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\build_plan_docx.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\build_plan_docx.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\build_plan_docx.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\build_plan_docx.py"
+ ],
+ "subagent_sessions": []
+}

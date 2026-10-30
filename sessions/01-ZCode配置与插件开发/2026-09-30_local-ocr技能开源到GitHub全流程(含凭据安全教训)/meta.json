@@ -1,0 +1,69 @@
+{
+ "session_id": "sess_ea93ca41-1b72-40a1-836d-38fa59db4fd9",
+ "zcode_title": "Local OCR 技能开源到 GitHub",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "[user选择]GLM-5.3-Flash": 4,
+  "GLM-5.3-Flash": 82
+ },
+ "tools": {
+  "Read": 10,
+  "Bash": 31,
+  "TaskOutput": 5,
+  "TaskStop": 3,
+  "TodoWrite": 4,
+  "Write": 8,
+  "Edit": 26,
+  "Skill": 2,
+  "mcp__node_repl__js": 28
+ },
+ "skills": {
+  "browser-use:control-browser": 1,
+  "zcode-guide:zcode-configuration-guide": 1
+ },
+ "t_start": "2026-09-30 12:16",
+ "t_end": "2026-09-30 13:19",
+ "msgs": 98,
+ "user_msgs": 4,
+ "write_paths": [
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\README.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\LICENSE",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\.gitignore",
+  "C:\\Users\\UserX\\AppData\\Local\\Temp\\local-ocr-repo-payload.json",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\local-ocr-083d245cd91c7428\\memory\\local-ocr-github-repo.md",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\local-ocr-083d245cd91c7428\\memory\\MEMORY.md",
+  "C:\\Users\\UserX\\AppData\\Local\\Temp\\local-ocr-desc-payload.json",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\local-ocr-083d245cd91c7428\\memory\\github-publish-authorization.md"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\SKILL.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\SKILL.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\SKILL.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\INSTALL.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\INSTALL.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\INSTALL.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\INSTALL.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\INSTALL.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\INSTALL.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\INSTALL.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\CROSS_EDITOR.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\CROSS_EDITOR.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\CROSS_EDITOR.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\CROSS_EDITOR.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\CROSS_EDITOR.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\CROSS_EDITOR.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\CROSS_EDITOR.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\.gitignore",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\README.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\README.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\README.md",
+  "C:\\Users\\UserX\\Downloads\\local-ocr\\README.md",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\local-ocr-083d245cd91c7428\\memory\\local-ocr-github-repo.md",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\local-ocr-083d245cd91c7428\\memory\\local-ocr-github-repo.md",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\local-ocr-083d245cd91c7428\\memory\\local-ocr-github-repo.md",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\local-ocr-083d245cd91c7428\\memory\\MEMORY.md"
+ ],
+ "subagent_sessions": []
+}

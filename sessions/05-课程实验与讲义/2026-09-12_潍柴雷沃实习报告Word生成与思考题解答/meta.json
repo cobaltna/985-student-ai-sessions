@@ -1,0 +1,107 @@
+{
+ "session_id": "sess_3f544e8f-429e-4378-bf16-3ba74944c857",
+ "zcode_title": "按要求完成两个Word实习报告",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 136,
+  "[user选择]deepseek-flash": 6
+ },
+ "tools": {
+  "Bash": 54,
+  "Read": 56,
+  "Agent": 4,
+  "AskUserQuestion": 1,
+  "TodoWrite": 3,
+  "Write": 4,
+  "Edit": 8,
+  "WebFetch": 2
+ },
+ "skills": {},
+ "t_start": "2026-09-12 19:23",
+ "t_end": "2026-09-13 20:26",
+ "msgs": 153,
+ "user_msgs": 6,
+ "write_paths": [
+  "C:\\Users\\UserX\\Downloads\\实习\\_build\\docxlib.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_build\\buildA.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_build\\buildB.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_build2\\make.py"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\Downloads\\实习\\_build\\docxlib.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_build\\docxlib.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_build2\\make.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_build2\\make.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_build2\\make.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_build2\\make.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_build2\\make.py",
+  "C:\\Users\\UserX\\Downloads\\实习\\_build2\\make.py"
+ ],
+ "subagent_sessions": [
+  {
+   "id": "sess_subagent_agent_2b2366d9-6a94-40a9-92e8-ec24460c1c74",
+   "md_kb": 223,
+   "jl_msgs": 57,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-flash": 56,
+     "[user选择]deepseek-flash": 1
+    },
+    "tools": {
+     "WebFetch": 70,
+     "Bash": 42
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_825c2cdb-26ea-4730-a455-368d9b687877",
+   "md_kb": 164,
+   "jl_msgs": 46,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-flash": 45,
+     "[user选择]deepseek-flash": 1
+    },
+    "tools": {
+     "WebFetch": 159
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_bbf5cbd7-0179-4093-bf19-592c6fe8f826",
+   "md_kb": 33,
+   "jl_msgs": 6,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-flash": 5,
+     "[user选择]deepseek-flash": 1
+    },
+    "tools": {
+     "WebFetch": 18
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_fdf3d64e-9765-4264-a5ad-4c53fbac0831",
+   "md_kb": 126,
+   "jl_msgs": 26,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-flash": 25,
+     "[user选择]deepseek-flash": 1
+    },
+    "tools": {
+     "TodoWrite": 3,
+     "WebFetch": 33,
+     "Bash": 17
+    },
+    "skills": {}
+   }
+  }
+ ]
+}

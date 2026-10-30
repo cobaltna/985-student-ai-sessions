@@ -1,0 +1,23 @@
+{
+ "session_id": "sess_b043f92f-6c61-4c9b-83b4-4709a49bee13",
+ "zcode_title": "实验2、3、4全流程原理结果详解",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 22,
+  "[user选择]deepseek-flash": 2
+ },
+ "tools": {
+  "Read": 13,
+  "Bash": 6
+ },
+ "skills": {},
+ "t_start": "2026-09-15 13:18",
+ "t_end": "2026-09-15 13:32",
+ "msgs": 26,
+ "user_msgs": 2,
+ "write_paths": [],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

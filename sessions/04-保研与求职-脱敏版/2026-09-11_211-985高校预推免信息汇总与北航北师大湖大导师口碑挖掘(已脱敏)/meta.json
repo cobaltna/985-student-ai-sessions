@@ -1,0 +1,106 @@
+{
+ "session_id": "sess_f951141d-f526-4e28-8399-2d75729da8e1",
+ "zcode_title": "211 985高校预推免未截止报名整理",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-v4-flash": 180,
+  "[user选择]deepseek-v4-flash": 24
+ },
+ "tools": {
+  "WebFetch": 10,
+  "Agent": 4,
+  "Skill": 1,
+  "mcp__node_repl__js": 151,
+  "TodoWrite": 4,
+  "AskUserQuestion": 1,
+  "Read": 6,
+  "Bash": 9,
+  "Write": 3
+ },
+ "skills": {
+  "browser-use:control-browser": 1
+ },
+ "t_start": "2026-09-11 13:46",
+ "t_end": "2026-09-11 18:55",
+ "msgs": 220,
+ "user_msgs": 24,
+ "write_paths": [
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\_pdf_extract.mjs",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\_pdf_render.mjs",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\_ocr.ps1"
+ ],
+ "edit_paths": [],
+ "subagent_sessions": [
+  {
+   "id": "sess_subagent_agent_4f14195b-af8b-4a0c-96f8-ad220bd6dcb8",
+   "md_kb": 205,
+   "jl_msgs": 52,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-v4-flash": 51,
+     "[user选择]deepseek-v4-flash": 1
+    },
+    "tools": {
+     "WebFetch": 181,
+     "TodoWrite": 4
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_a682ed0b-bb3f-4098-9212-c6d6f03b116d",
+   "md_kb": 196,
+   "jl_msgs": 51,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-v4-flash": 50,
+     "[user选择]deepseek-v4-flash": 1
+    },
+    "tools": {
+     "TodoWrite": 4,
+     "WebFetch": 82,
+     "Bash": 56,
+     "Read": 3
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_a8b6501c-1b03-4b96-8851-eeea75fb880c",
+   "md_kb": 9,
+   "jl_msgs": 7,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-v4-flash": 6,
+     "[user选择]deepseek-v4-flash": 1
+    },
+    "tools": {
+     "TodoWrite": 1,
+     "Bash": 6,
+     "WebFetch": 1
+    },
+    "skills": {}
+   }
+  },
+  {
+   "id": "sess_subagent_agent_c927a700-c748-48a4-a2c6-376c5b726287",
+   "md_kb": 20,
+   "jl_msgs": 10,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-v4-flash": 9,
+     "[user选择]deepseek-v4-flash": 1
+    },
+    "tools": {
+     "TodoWrite": 1,
+     "mcp__solidworks__ensure_ready": 1,
+     "WebFetch": 5,
+     "Bash": 6
+    },
+    "skills": {}
+   }
+  }
+ ]
+}

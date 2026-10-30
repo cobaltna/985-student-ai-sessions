@@ -1,0 +1,67 @@
+{
+ "session_id": "session_14f548098be2fc04eb863b59394d3e54",
+ "zcode_title": "这个问题通常是**多个自启动入口同时存在**导致的：火绒关掉的只是\"启动项\"列表里的一个，但 Edge 还有\"后台运行\"\"自动恢复\"\"更新任务\"\"计划任务\"等其他入口，所以第二天又回来了，而且越...",
+ "task_type": "interactive",
+ "dominant_model": "deepseek-v4.1-flash",
+ "models_usage": {
+  "deepseek-v4.1-flash": [
+   11020935,
+   140730
+  ]
+ },
+ "models_in_msgs": {
+  "[user选择]deepseek-v4.1-flash": 7,
+  "deepseek-v4.1-flash": 127
+ },
+ "tools": {
+  "Bash": 96,
+  "WebFetch": 7,
+  "Skill": 1,
+  "AskUserQuestion": 1,
+  "TodoWrite": 6,
+  "Write": 31,
+  "Read": 2
+ },
+ "skills": {
+  "web-search": 1
+ },
+ "t_start": "2026-10-29 13:04",
+ "t_end": "2026-10-30 01:53",
+ "msgs": 151,
+ "user_msgs": 7,
+ "write_paths": [
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\apply-edge-policy.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\run-elevated.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\check-autolaunch.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\watch-rewrite.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\test-headless-writes.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\scan-strings.py",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\scan2.py",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\scan3.py",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\scan4.py",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\scan5.py",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\apply-edge-policy2.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\run-elevated2.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\verify-policy-read.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\test-realworld.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\test-fresh.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\check-policy-cdp.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\check-gpo-load.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\dump-policy.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\policy-via-cdp.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\final-test.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\test-popup.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\install-guard-acl.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\test-accumulation.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\test-persist.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\edge-autolaunch-guard.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\install-guard-task.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\verify-autostart-state.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\check-autolaunch.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\restore-edge-autostart.ps1",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\run-guard-hidden.vbs",
+  "C:\\Users\\UserX\\edge-autolaunch-backup-20261029\\fix-flash.ps1"
+ ],
+ "edit_paths": [],
+ "subagent_sessions": []
+}

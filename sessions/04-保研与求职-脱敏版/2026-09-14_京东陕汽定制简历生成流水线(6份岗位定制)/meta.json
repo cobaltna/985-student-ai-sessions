@@ -1,0 +1,82 @@
+{
+ "session_id": "sess_a9661e28-f7d9-49dc-91b7-0a5fc432242d",
+ "zcode_title": "整理信息并定制京东陕汽简历",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 110,
+  "[user选择]deepseek-flash": 3
+ },
+ "tools": {
+  "Bash": 39,
+  "Read": 17,
+  "Agent": 1,
+  "Skill": 1,
+  "mcp__node_repl__js": 30,
+  "TodoWrite": 3,
+  "AskUserQuestion": 1,
+  "Write": 5,
+  "Edit": 23
+ },
+ "skills": {
+  "browser-use:control-browser": 1
+ },
+ "t_start": "2026-09-14 17:03",
+ "t_end": "2026-09-14 17:29",
+ "msgs": 122,
+ "user_msgs": 3,
+ "write_paths": [
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\简历说明与调研结论.md",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\resume-ef0bedef87a3a0af\\memory\\resume-gen-workspace.md",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\resume-ef0bedef87a3a0af\\memory\\jd-saic-campus-research.md",
+  "C:\\Users\\UserX\\.zcode\\cli\\memories\\projects\\resume-ef0bedef87a3a0af\\memory\\MEMORY.md"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py",
+  "C:\\Users\\UserX\\Desktop\\resume\\生成简历\\_gen.py"
+ ],
+ "subagent_sessions": [
+  {
+   "id": "sess_subagent_agent_6d1b0f60-c40c-4f0e-8fd2-b6f9904d9b3a",
+   "md_kb": 72,
+   "jl_msgs": 35,
+   "meta": {
+    "models_in_msgs": {
+     "deepseek-flash": 34,
+     "[user选择]deepseek-flash": 1
+    },
+    "tools": {
+     "WebFetch": 16,
+     "Bash": 16,
+     "Read": 4,
+     "Write": 7,
+     "Edit": 1
+    },
+    "skills": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "session_id": "sess_57baeb9c-b686-473e-851c-c2da9fce984d",
+ "zcode_title": "升级 PowerShell 至 7 并设为默认",
+ "task_type": "interactive",
+ "dominant_model": "?",
+ "models_usage": {},
+ "models_in_msgs": {
+  "deepseek-flash": 96,
+  "[user选择]deepseek-flash": 5
+ },
+ "tools": {
+  "Bash": 66,
+  "AskUserQuestion": 4,
+  "Write": 12,
+  "Read": 7,
+  "Edit": 17,
+  "TodoWrite": 3
+ },
+ "skills": {},
+ "t_start": "2026-09-12 17:20",
+ "t_end": "2026-09-12 17:58",
+ "msgs": 108,
+ "user_msgs": 5,
+ "write_paths": [
+  "C:\\Users\\UserX\\Downloads\\ps7-install\\install-ps7.ps1",
+  "C:\\Users\\UserX\\Downloads\\ps7-install\\path-before.txt",
+  "C:\\Users\\UserX\\.zcode\\AGENTS.md",
+  "C:\\Users\\UserX\\.zcode\\memory\\output-preferences.md",
+  "C:\\Users\\UserX\\.zcode\\AGENTS.md",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\probe_py_envs.py",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\方案-环境记忆-PS7-skill.md",
+  "C:\\Users\\UserX\\.zcode\\memory\\python-envs.md",
+  "C:\\Users\\UserX\\.zcode\\workspace\\default\\_skill_test.py",
+  "C:\\Users\\UserX\\.bashrc",
+  "C:\\Users\\UserX\\.bash_profile",
+  "C:\\Users\\UserX\\.bash_profile"
+ ],
+ "edit_paths": [
+  "C:\\Users\\UserX\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\settings.json",
+  "C:\\Users\\UserX\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\settings.json",
+  "C:\\Users\\UserX\\.zcode\\AGENTS.md",
+  "C:\\Users\\UserX\\.zcode\\AGENTS.md",
+  "C:\\Users\\UserX\\.zcode\\AGENTS.md",
+  "C:\\Users\\UserX\\.zcode\\skills\\docx-inplace-modify\\SKILL.md",
+  "C:\\Users\\UserX\\.zcode\\skills\\docx-inplace-modify\\SKILL.md",
+  "C:\\Users\\UserX\\.zcode\\skills\\docx-inplace-modify\\SKILL.md",
+  "C:\\Users\\UserX\\.zcode\\skills\\docx-inplace-modify\\SKILL.md",
+  "C:\\Users\\UserX\\.zcode\\skills\\docx-inplace-modify\\SKILL.md",
+  "C:\\Users\\UserX\\.zcode\\skills\\docx-inplace-modify\\SKILL.md",
+  "C:\\Users\\UserX\\.zcode\\skills\\docx-inplace-modify\\SKILL.md",
+  "C:\\Users\\UserX\\.zcode\\AGENTS.md",
+  "C:\\Users\\UserX\\.zcode\\AGENTS.md",
+  "C:\\Users\\UserX\\.zcode\\AGENTS.md",
+  "C:\\Users\\UserX\\.zcode\\skills\\docx-inplace-modify\\SKILL.md",
+  "C:\\Users\\UserX\\.zcode\\AGENTS.md"
+ ],
+ "subagent_sessions": []
+}
